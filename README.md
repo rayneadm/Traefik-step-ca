@@ -225,6 +225,7 @@ networks:
     external: true
 ```
 In traefik.yml add part about certresolver
+
 ```bash 
 certificatesResolvers:
   stepca:
